@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm John Rey Dado 👋a
+# Hi, I'm John Rey Dado 👋agg
 
 ### Full-Stack Developer • Web • Mobile • Desktop
 
