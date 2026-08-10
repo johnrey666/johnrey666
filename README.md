@@ -62,8 +62,8 @@ I've shipped **10+ production systems** spanning client applications, internal b
 | Project | Description | Stack |
 |:--|:--|:--|
 | 🏥 **SeniorCare Connect** | Mobile platform connecting elderly users with caregivers, real-time chat, mapping, and reporting | Flutter • Firebase • Dart |
-| 📦 **E-Portal Requisition** | Enterprise requisition platform with ticketing, approvals, and built-in messaging | C# • .NET • MySQL |
-| 🛒 **GoodCatch E-Commerce** | Full-stack online marketplace with inventory, product management, and admin dashboard | Next.js • Supabase |
+| 📦 **E-Portal Requisition** | Enterprise requisition platform with ticketing, approvals, and built-in messaging | Angular • Firebase |
+| 🛒 **Sales Summary Report Dashboard** | Desktop Application for sales dashboards, graphs, and comparisons | C# • .NET |
 | 📊 **Wastage Reporting System** | Internal reporting platform used across multiple branches for operational analytics | Next.js • Supabase |
 
 ---
