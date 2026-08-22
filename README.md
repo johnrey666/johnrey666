@@ -1,53 +1,48 @@
 <div align="center">
 
-```
-$ whoami
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%24+whoami;%E2%86%92+John+Rey+Dado+%E2%80%94+Full-Stack+Developer;%24+cat+experience.txt;%E2%86%92+2%2B+years+%C2%B7+10%2B+production+systems+shipped;%24+ls+stack%2F;%E2%86%92+C%23%2F.NET+%C2%B7+Angular+%C2%B7+Laravel+%C2%B7+Flutter+%C2%B7+MySQL" />
 
-# John Rey Dado
+<br><br>
 
-`Full-Stack Developer` &nbsp;·&nbsp; `Web` &nbsp;·&nbsp; `Mobile` &nbsp;·&nbsp; `Desktop`
-
-<sub>Based on 2+ years shipping production systems for real clients and teams.</sub>
-
-<br>
-
-[**Portfolio**](https://johnrey666.github.io/portfolio/) &nbsp;/&nbsp; [**Resume**](https://johnrey666.github.io/portfolio/) &nbsp;/&nbsp; [**Email**](mailto:johnreydado3@gmail.com) &nbsp;/&nbsp; [**GitHub**](https://github.com/johnrey666)
+<sub>▾ terminal is auto-playing — or pick a command below to jump straight to the answer ▾</sub>
 
 </div>
 
 <br>
 
-```
-$ cat about.md
-```
-
-I build things that businesses actually run on — not demos. Ten-plus production
-systems shipped across freelance and professional work: internal tools, client
-apps, reporting platforms. I own the full loop, requirements to deployment to
-whatever breaks three weeks later.
-
-Primary stack: **C# / .NET · Angular · Laravel · Flutter · MySQL**
-
-<br>
-
-```
-$ git log --oneline --graph --projects
-```
+<div align="center">
 
 <table>
-<tr><td width="140"><b>🏥 SeniorCare Connect</b></td><td>Mobile platform connecting elderly users with caregivers — real-time chat, live mapping, reporting.<br><sub><code>Flutter</code> <code>Firebase</code> <code>Dart</code></sub></td></tr>
-<tr><td><b>📦 E-Portal Requisition</b></td><td>Enterprise requisition system — ticketing, multi-step approvals, in-app messaging.<br><sub><code>Angular</code> <code>Firebase</code></sub></td></tr>
-<tr><td><b>🛒 Sales Summary Dashboard</b></td><td>Desktop app for sales analytics — live graphs, period comparisons, exportable reports.<br><sub><code>C#</code> <code>.NET</code></sub></td></tr>
-<tr><td><b>📊 Wastage Reporting System</b></td><td>Multi-branch operational analytics platform used across live sites.<br><sub><code>Next.js</code> <code>Supabase</code></sub></td></tr>
+<tr>
+<td align="center"><a href="#who"><code>whoami</code></a></td>
+<td align="center"><a href="#stack"><code>ls stack/</code></a></td>
+<td align="center"><a href="#projects"><code>git log --projects</code></a></td>
+<td align="center"><a href="#contact"><code>curl contact</code></a></td>
+</tr>
 </table>
+
+</div>
+
+---
+
+<a name="who"></a>
+```
+guest@johnrey:~$ whoami
+```
+> John Rey Dado — Full-stack developer with 2+ years of experience building
+> web, mobile, and desktop applications across freelance and professional
+> roles. Shipped 10+ production systems: client apps, internal business
+> tools, and reporting platforms. Owns the full lifecycle — requirements
+> through deployment and post-launch support.
+
+[Portfolio](https://johnrey666.github.io/portfolio/) &nbsp;·&nbsp; [Resume](https://johnrey666.github.io/portfolio/) &nbsp;·&nbsp; [Email](mailto:johnreydado3@gmail.com)
 
 <br>
 
+<a name="stack"></a>
 ```
-$ ls -la ./stack
+guest@johnrey:~$ ls stack/
 ```
-
 <table>
 <tr>
 <td valign="top" width="25%">
@@ -84,28 +79,31 @@ $ ls -la ./stack
 
 <br>
 
+<a name="projects"></a>
 ```
-$ tail -f activity.log
+guest@johnrey:~$ git log --oneline --graph --projects
 ```
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" width="100%"/>
-</p>
+<table>
+<tr><td width="140"><b>🏥 SeniorCare Connect</b></td><td>Mobile platform connecting elderly users with caregivers — real-time chat, live mapping, reporting.<br><sub><code>Flutter</code> <code>Firebase</code> <code>Dart</code></sub></td></tr>
+<tr><td><b>📦 E-Portal Requisition</b></td><td>Enterprise requisition system — ticketing, multi-step approvals, in-app messaging.<br><sub><code>Angular</code> <code>Firebase</code></sub></td></tr>
+<tr><td><b>🛒 Sales Summary Dashboard</b></td><td>Desktop app for sales analytics — live graphs, period comparisons, exportable reports.<br><sub><code>C#</code> <code>.NET</code></sub></td></tr>
+<tr><td><b>📊 Wastage Reporting System</b></td><td>Multi-branch operational analytics platform used across live sites.<br><sub><code>Next.js</code> <code>Supabase</code></sub></td></tr>
+</table>
 
 <br>
 
+<a name="contact"></a>
+```
+guest@johnrey:~$ curl -s api.johnrey.dev/contact
+```
 <div align="center">
-
-```
-$ curl -s api.johnrey.dev/contact
-```
 
 **Instagram** → [@jhnry.dbs](https://instagram.com/jhnry.dbs) &nbsp;|&nbsp; **GitHub** → [@johnrey666](https://github.com/johnrey666) &nbsp;|&nbsp; **Portfolio** → [johnrey666.github.io](https://johnrey666.github.io/portfolio/)
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=johnrey666&style=flat-square&color=blueviolet" />
+<img src="https://komarev.com/ghpvc/?username=johnrey666&style=flat-square&color=39FF14" />
 
-<sub>thanks for scrolling this far — go build something</sub>
+<sub>guest@johnrey:~$ _</sub>
 
 </div>
