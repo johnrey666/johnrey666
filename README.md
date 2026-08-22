@@ -1,105 +1,87 @@
 <div align="center">
 
-# 📁 john-rey-dado
+# John Rey Dado
 
-<sub>full-stack-developer · web · mobile · desktop</sub>
+**Full-Stack Developer** &nbsp;|&nbsp; Web · Mobile · Desktop
+
+[Portfolio](https://johnrey666.github.io/portfolio/) &nbsp;•&nbsp; [Resume](https://johnrey666.github.io/portfolio/) &nbsp;•&nbsp; [Email](mailto:johnreydado3@gmail.com) &nbsp;•&nbsp; [GitHub](https://github.com/johnrey666) &nbsp;•&nbsp; [Instagram](https://instagram.com/jhnry.dbs)
 
 </div>
 
-<br>
+---
 
-```
-📦 john-rey-dado
-├── 📄 README.md
-├── 📁 about/
-├── 📁 projects/
-├── 📁 stack/
-└── 📁 contact/
-```
+### Contents
+1. [Overview](#overview)
+2. [Technical Skills](#technical-skills)
+3. [Projects](#projects)
+4. [Get in Touch](#get-in-touch)
 
-<br>
+---
 
-<details open>
-<summary><b>📁 about/</b></summary>
-<br>
+### Overview
 
-Full-stack developer, 2+ years, 10+ production systems shipped across freelance
-and professional roles — client apps, internal tools, reporting platforms.
-Comfortable owning a project end to end: requirements, build, deploy, support.
-
-**Core stack:** `C#/.NET` `Angular` `Laravel` `Flutter` `MySQL`
-
-</details>
-
-<details open>
-<summary><b>📁 projects/</b></summary>
-<br>
-
-<details>
-<summary>🏥 <b>seniorcare-connect</b> — mobile platform for elderly care</summary>
-<br>
-
-Connects elderly users with caregivers. Real-time chat, live mapping, and
-reporting tools for family oversight.
-`Flutter` `Firebase` `Dart`
-
-</details>
-
-<details>
-<summary>📦 <b>e-portal-requisition</b> — enterprise requisition system</summary>
-<br>
-
-Handles ticketing, multi-step approvals, and built-in messaging for internal
-procurement workflows.
-`Angular` `Firebase`
-
-</details>
-
-<details>
-<summary>🛒 <b>sales-summary-dashboard</b> — desktop analytics app</summary>
-<br>
-
-Desktop application for sales dashboards, live graphs, and period-over-period
-comparisons.
-`C#` `.NET`
-
-</details>
-
-<details>
-<summary>📊 <b>wastage-reporting-system</b> — multi-branch analytics platform</summary>
-<br>
-
-Operational reporting used across multiple branches in production.
-`Next.js` `Supabase`
-
-</details>
-
-</details>
-
-<details open>
-<summary><b>📁 stack/</b></summary>
-<br>
-
-<img src="https://skillicons.dev/icons?i=js,ts,cs,cpp,java,kotlin,php,python,dart,react,nextjs,angular,flutter,tailwind,html,css,nodejs,express,laravel,dotnet,mysql,postgres,firebase,supabase,git,figma&perline=9" />
-
-</details>
-
-<details open>
-<summary><b>📁 contact/</b></summary>
-<br>
+Full-stack developer with **2+ years of professional and freelance
+experience**, having shipped **10+ production systems** across web, mobile,
+and desktop platforms. Comfortable working end-to-end — requirements
+gathering, architecture, implementation, deployment, and post-launch support.
 
 | | |
 |---|---|
-| 🌐 Portfolio | [johnrey666.github.io](https://johnrey666.github.io/portfolio/) |
-| 📄 Resume | [johnrey666.github.io](https://johnrey666.github.io/portfolio/) |
-| ✉️ Email | [johnreydado3@gmail.com](mailto:johnreydado3@gmail.com) |
-| 🐙 GitHub | [@johnrey666](https://github.com/johnrey666) |
-| 📸 Instagram | [@jhnry.dbs](https://instagram.com/jhnry.dbs) |
+| **Core stack** | C#/.NET · Angular · Laravel · Flutter · MySQL |
+| **Focus areas** | Internal business tools · Client-facing applications · Reporting platforms |
+| **Experience** | 2+ years, freelance & professional roles |
 
-</details>
+---
+
+### Technical Skills
+
+| Category | Skills |
+|---|---|
+| Languages | JavaScript, TypeScript, C#, C++, Java, Kotlin, PHP, Python, Dart |
+| Frontend | React, Next.js, Angular, Flutter, Tailwind CSS, HTML/CSS |
+| Backend | Node.js, Express, Laravel, .NET, REST APIs |
+| Database & Cloud | MySQL, PostgreSQL, Firebase, Supabase, SQLite |
+| Tools | Git, GitHub, VS Code, Figma, Postman, Cursor |
+
+---
+
+### Projects
+
+**SeniorCare Connect**
+Mobile platform connecting elderly users with caregivers. Includes real-time
+chat, live mapping, and reporting tools.
+`Flutter` `Firebase` `Dart`
+
+**E-Portal Requisition**
+Enterprise requisition platform with ticketing, multi-step approvals, and
+built-in messaging.
+`Angular` `Firebase`
+
+**Sales Summary Dashboard**
+Desktop application for sales analytics — dashboards, trend graphs, and
+period-over-period comparisons.
+`C#` `.NET`
+
+**Wastage Reporting System**
+Internal reporting platform used across multiple branches for operational
+analytics.
+`Next.js` `Supabase`
+
+---
+
+### Get in Touch
+
+| Channel | Link |
+|---|---|
+| Portfolio | [johnrey666.github.io/portfolio](https://johnrey666.github.io/portfolio/) |
+| Email | [johnreydado3@gmail.com](mailto:johnreydado3@gmail.com) |
+| GitHub | [@johnrey666](https://github.com/johnrey666) |
+| Instagram | [@jhnry.dbs](https://instagram.com/jhnry.dbs) |
+
+<div align="center">
 
 <br>
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=johnrey666&style=flat-square&color=orange" />
+<sub>Profile visits: <img src="https://komarev.com/ghpvc/?username=johnrey666&style=flat-square&color=555555" height="15"/></sub>
+
 </div>
